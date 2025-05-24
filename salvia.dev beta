@@ -34,7 +34,7 @@ local Library = {
     BackgroundColor = Color3.fromRGB(20, 15, 35),
     AccentColor = Color3.fromRGB(150, 100, 255),
     OutlineColor = Color3.fromRGB(70, 60, 100), 
-    RiskColor = Color3.fromRGB(255, 80, 80) 
+    RiskColor = Color3.fromRGB(255, 80, 80)
 
     Black = Color3.new(0, 0, 0);
     Font = Enum.Font.Nunito,
